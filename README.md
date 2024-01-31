@@ -9,7 +9,7 @@ This project is made using:
 ## App Demonstration
 
 <p align="center">
-  <img src="https://github.com/parthanand4054/FetchiOSChallenge/blob/main/GIFs/GMP_U2F2ZUdIMDE%3D.GIF" width="400" />
-  <img src="https://github.com/parthanand4054/FetchiOSChallenge/blob/main/GIFs/GMP_U2F2ZUdIMDE%3D%202.GIF" width="400" />
+  <img src="https://github.com/parthanand4054/FetchiOSChallenge/blob/main/GIFs/GMP_U2F2ZUdIMDE%3D.GIF" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/parthanand4054/FetchiOSChallenge/blob/main/GIFs/GMP_U2F2ZUdIMDE%3D%202.GIF" width="200" />
 </p>
+
 
