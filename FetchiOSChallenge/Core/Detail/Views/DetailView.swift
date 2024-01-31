@@ -79,7 +79,6 @@ struct DetailView: View {
                     if let mealInstruction = vm.mealInstruction,
                        !mealInstruction.isEmpty {
                         Text(mealInstruction)
-                           // .foregroundColor(Color.theme.secondaryText)
                     }
                 }
             }

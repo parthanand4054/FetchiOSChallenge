@@ -135,7 +135,6 @@ struct DetailedMeal: Identifiable, Codable {
         return meas
     }
 
-    // Make all ingredient and measure properties optional
     private let strIngredient1: String?
     private let strIngredient2: String?
     private let strIngredient3: String?
@@ -156,7 +155,6 @@ struct DetailedMeal: Identifiable, Codable {
     private let strIngredient18: String?
     private let strIngredient19: String?
     private let strIngredient20: String?
-    // Repeat for all ingredient fields up to strIngredient20
 
     private let strMeasure1: String?
     private let strMeasure2: String?
@@ -178,7 +176,6 @@ struct DetailedMeal: Identifiable, Codable {
     private let strMeasure18: String?
     private let strMeasure19: String?
     private let strMeasure20: String?
-    // Repeat for all measure fields up to strMeasure20
 
     enum CodingKeys: String, CodingKey {
         case strMeal, strInstructions, id = "idMeal"

@@ -2,7 +2,7 @@
 //  FetchiOSChallengeApp.swift
 //  FetchiOSChallenge
 //
-//  Created by Parth Anand a
+//  Created by Parth Anand
 //
 
 import SwiftUI
