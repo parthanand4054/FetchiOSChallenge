@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  FetchiOSChallenge
 //
-//  Created by Parth Anand on 30/01/24.
+//  Created by Parth Anand
 //
 
 import SwiftUI
