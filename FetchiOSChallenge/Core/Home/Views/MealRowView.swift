@@ -9,15 +9,15 @@ import SwiftUI
 
 struct MealRowView: View {
     
-    let meal: MealModel
+    let meal: MealModel // this variable is set when creating a reference of this struct i.e MealRowView from HomeView. See the allMealsList in extensions in HomeView file.
     
     var body: some View {
         HStack(spacing: 0) {
-            leftColumn
+            leftColumn // Just contains the meal image and text, stacked horizntally.
             Spacer()
         }
         .font(.subheadline)
-        .background(
+        .background( // need to add this so that the whole row is clickable.
             Color.theme.background.opacity(0.001)
         )
     }
